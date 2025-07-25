@@ -141,7 +141,7 @@ class ModernImageUploader(ctk.CTk):
         super().__init__()
         
         # 窗口设置
-        self.title("GitHub图床管理工具 Pro")
+        self.title("GitHub图床管理工具")
         self.geometry("1280x800")
         self.minsize(1024, 768)
         
@@ -1134,7 +1134,7 @@ class ModernImageUploader(ctk.CTk):
 
     def _show_about(self):
         """显示关于信息"""
-        webbrowser.open("https://blog.fengmayou.top")
+        webbrowser.open("https://github.com/fengjiayou/GitHubImageUploader")
 
 
 if __name__ == "__main__":
