@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/logo.png" width="120" alt="GitHub Image Uploader Logo" />
+  <img src="ico.ico" width="120" alt="GitHub Image Uploader Logo" />
   <h1 align="center">GitHub Image Uploader</h1>
   <h4 align="center">现代化 UI 的 GitHub 图床管理工具，支持上传、预览、重命名、删除、懒加载等功能</h4>
 </div>
